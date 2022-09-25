@@ -1,0 +1,148 @@
+input[type=text], input[type=password], input[type=number], select {
+  width: 100%;
+  padding: 7px 10px;
+  margin: 3px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type=password].pass_pasca {
+  width: 48%;
+  padding: 7px 10px;
+  margin: 3px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type=submit].masuk {
+  width: 100%;
+  background-color: rgb(0, 167, 8);
+  color: white;
+  padding: 7px 10px;
+  margin: 3px 0;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit].keluar {
+  width: 100%;
+  background-color: rgb(197, 13, 13);
+  color: white;
+  padding: 7px 10px;
+  margin: 3px 0;
+  border: none;
+  cursor: pointer;
+}
+input[type=submit].hapus {
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 7px 10px;
+  margin: 3px 0;
+  border: none;
+  cursor: pointer;
+}
+input[type=submit].refresh {
+  width: 50px; height: 30px;
+  background-color: rgb(61, 228, 61);
+  color: white;
+  padding: 5px 0 0 0;
+  margin: 3px 0 0 0;
+  border: none;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit].info {
+  width: 100%;
+  background-color: rgb(7, 197, 32);
+  color: white;
+  padding: 14px 20px;
+  margin: 3px 0;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit].sub_pasca {
+  width: 30%;
+  background-color: rgb(221, 129, 9);
+  color: white;
+  padding: 7px 10px;
+  margin: 3px 0;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #575757;
+}
+
+#saldo {
+  width:230px;
+  float:left;
+}
+
+div {
+  border-radius: 5px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div.nama {
+  padding: 3px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div.tarik {
+  width: 28%; float: left;
+  padding-right: 0;
+}
+
+div.hapus {
+  width: 28%; float: left;
+}
+
+div.pasca {
+  width: 30%; float: left;
+}
+#transaksi {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: small;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#transaksi td, #transaksi th {
+  border: 1px solid #ddd;
+  padding: 3px;
+}
+
+#transaksi tr:nth-child(even){background-color: #fff7f7;}
+
+#transaksi tr:hover {background-color: #ddd;}
+
+#transaksi th {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  background-color: rgb(83, 83, 83);
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+button.back {
+  background-color: rgb(0, 0, 0); /* Green */
+  width: 70px; height: 30px;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}

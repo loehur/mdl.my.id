@@ -1,0 +1,11 @@
+[26-Jul-2021 03:27:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mdlmyid/public_html/db_mdl.php on line 6
+[26-Jul-2021 03:27:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mdlmyid/public_html/mdl/notif/get.php on line 8
+[26-Jul-2021 03:27:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mdlmyid/public_html/mdl/notif/get.php on line 9
+[26-Jul-2021 03:27:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mdlmyid/public_html/db_mdl.php on line 6
+[26-Jul-2021 03:27:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mdlmyid/public_html/mdl/notif/add.php on line 11
+[18-Oct-2021 01:54:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/mdlmyid/public_html/db_mdl.php on line 6
+[18-Oct-2021 01:54:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mdlmyid/public_html/mdl/notif/get.php on line 8
+[18-Oct-2021 01:54:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mdlmyid/public_html/mdl/notif/get.php on line 9
+[12-Nov-2021 10:33:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/mdlmyid/public_html/db_mdl.php on line 6
+[12-Nov-2021 10:33:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mdlmyid/public_html/mdl/notif/get.php on line 8
+[12-Nov-2021 10:33:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mdlmyid/public_html/mdl/notif/get.php on line 9

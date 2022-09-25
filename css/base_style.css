@@ -1,0 +1,24 @@
+html, body {
+    font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+    max-width: 340px;
+    margin: auto;
+    font-size: 12px;
+    background-color: azure;
+}
+
+select{
+    background-color: rgb(217, 246, 255);
+}
+
+input[type=text], input[type=password], input[type=number], input[type=submit], select, button {
+    width: 100%;
+    padding: 7px 10px;
+    margin: 3px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+ 
+a{
+    text-decoration:none;
+}

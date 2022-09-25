@@ -1,0 +1,115 @@
+/* PAKET */
+.konten{
+    border-radius: 3px;
+    background-color: white;
+    border: silver;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 1px 1px grey;
+}
+.btn-submit{
+    background-color: darkgreen;
+    color:white;
+}
+.btn-menu{
+    background-color: rgb(3, 107, 148);
+    color:white;
+}
+.btn-logout{
+    background-color: red;
+    color:white;
+}
+
+.btn-info{
+    background-color: rgb(100, 122, 0);
+    color:white;
+}
+
+/* MARGIN */
+.m-auto{
+    margin: auto;
+}
+.mt-1{
+    margin-top:5px;
+}
+.m-1{
+    margin:5px;
+}
+.m-2{
+    margin:10px;
+}
+.ml-1{
+    margin-left:5px;
+}
+.ml-2{
+    margin-left:10px;
+}
+
+/* TEXT */
+.text-center{
+    text-align:center;
+}
+.fs-12{
+    font-size: 12px;
+}
+.fs-14{
+    font-size: 14px;
+}
+
+/* WIDTH AND HEIGHT*/
+.w-100{
+    width: 100%;
+}
+.w-33{
+    width: 33%;
+}
+.w-90{
+    width: 90%;
+}
+.h-100{
+    height:100%;
+}
+
+/* PADDING */
+.p-1{
+    padding:5px;
+}
+.p-2{
+    padding: 10px;
+}
+.pl-1{
+    padding-left:5px;
+}
+.ptb-1{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.f-r{
+    float: right;
+}
+.bs-1{
+    border-spacing: 3px;
+}
+
+.sticky_top {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+.sticky_bot {
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+  }
+
+.fixed_top {
+    	position: fixed;
+	z-index: 100;
+    	top: 0;
+  }
+
+.fixed_bot {
+    	position: fixed;
+	z-index: 100;
+    	bottom: 0;
+  }

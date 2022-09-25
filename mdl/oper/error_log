@@ -1,0 +1,17 @@
+[27-Jun-2021 13:53:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'loehur_mdlDB'@'localhost' (using password: YES) in /home/mdlmyid/public_html/db_mdl.php on line 6
+[27-Jun-2021 13:53:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 8
+[27-Jun-2021 13:53:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 9
+[27-Jun-2021 13:57:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'loehur_mdlDB'@'localhost' (using password: YES) in /home/mdlmyid/public_html/db_mdl.php on line 6
+[27-Jun-2021 13:57:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 8
+[27-Jun-2021 13:57:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 9
+[27-Jun-2021 13:57:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'loehur_mdlDB'@'localhost' (using password: YES) in /home/mdlmyid/public_html/db_mdl.php on line 6
+[27-Jun-2021 13:57:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 8
+[27-Jun-2021 13:57:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 9
+[28-Jun-2021 00:57:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'loehur_mdlDB'@'localhost' (using password: YES) in /home/mdlmyid/public_html/db_mdl.php on line 6
+[28-Jun-2021 00:57:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 8
+[28-Jun-2021 00:57:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 9
+[28-Jun-2021 00:58:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'loehur_mdlDB'@'localhost' (using password: YES) in /home/mdlmyid/public_html/db_mdl.php on line 6
+[28-Jun-2021 00:58:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 8
+[28-Jun-2021 00:58:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 9
+[28-Jun-2021 00:59:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 9
+[28-Jun-2021 00:59:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/mdlmyid/public_html/mdl/oper/oper_outlateList.php on line 9
