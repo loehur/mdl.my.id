@@ -20,13 +20,19 @@ $zipped = 0;
 
 
 if (isset($_GET['download'])) {
-    createZip();
+    echo $_GET['download'];
+    switch ($_GET['download']) {
+        case 1:
+            createZip('notifSender.zip', 'assets/notifSender/');
+            break;
+        case 2:
+            createZip('notifSender_UPDATE.zip', 'assets/notifSender_UPDATE/');
+            break;
+    }
 }
 
-function createZip()
+function createZip($zipName, $dir)
 {
-    $zipName = 'notifSender.zip';
-    $dir = 'assets/notifSender/';
     $rootPath = realpath($dir);
     $zip = new ZipArchive();
     $zip->open($zipName, ZipArchive::CREATE | ZipArchive::OVERWRITE);
@@ -45,7 +51,7 @@ function createZip()
         }
     }
     $zip->close();
-    header("Location: notifSender.zip");
+    header("Location: " . $zipName);
 }
 ?>
 
@@ -142,7 +148,8 @@ function createZip()
                     <h4 class="my-3">Notif Sender</h4>
                     <p class="text-muted">Whatsapp dan SMS Sender</p>
                     <!-- Auto width -->
-                    <button class="btn"><a href="index.php?download=true" style="text-decoration: none;"> Download Aplikasi</a></button>
+                    <button class="btn"><a href="index.php?download=1" style="text-decoration: none;"> <b>FULL</b> Patch</a></button>
+                    <button class="btn"><a href="index.php?download=2" style="text-decoration: none;"> <b>UPDATE</b> Patch</a></button>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
