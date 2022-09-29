@@ -190,7 +190,7 @@ function createZip($zipName, $dir)
                             <h4 class="subheading">MDL App Desktop Version</h4>
                         </div>
                         <div class="timeline-body">
-                            <p class="text-muted">Aplikasi MDL dibuat dan dikembangna dalam versi Desktop yang berjalan pada sistem operasi Windows</p>
+                            <p class="text-muted">Aplikasi MDL versi DESKTOP yang berjalan pada sistem operasi Windows</p>
                         </div>
                     </div>
                 </li>
@@ -202,7 +202,7 @@ function createZip($zipName, $dir)
                             <h4 class="subheading">MDL App Web Version</h4>
                         </div>
                         <div class="timeline-body">
-                            <p class="text-muted">Mengingat diperlukannya aplikasi yang lebih fleksibel, mudah di akses dari mana saja, dan dapat dikembangkan lebih jauh lagi, Developer memutuskan membuat MDL App berbasis Web.</p>
+                            <p class="text-muted">Aplikasi MDL versi WEB yang berjalan pada Web Browser</p>
                         </div>
                     </div>
                 </li>
@@ -242,7 +242,7 @@ function createZip($zipName, $dir)
         <div class="container">
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">Hubungi Kami</h2>
-                <h3 class="section-subheading text-muted">Silahkan tinggal pesan</h3>
+                <h3 class="section-subheading text-muted">Tinggalkan pesan</h3>
             </div>
             <div class="row align-items-stretch mb-5">
                 <div class="col">
