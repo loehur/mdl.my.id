@@ -113,7 +113,7 @@ function createZip($zipName, $dir)
                             <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Deposit Paket Member</div>
+                            <div class="portfolio-caption-heading">Deposit Member & Tunai</div>
                             <div class="portfolio-caption-subheading text-muted">Deposit paket yang memudahkan berlangganan</div>
                         </div>
                     </div>
@@ -136,22 +136,11 @@ function createZip($zipName, $dir)
     <section class="page-section" id="services">
         <div class="container">
             <div class="text-center">
-                <h2 class="section-heading text-uppercase">Tools</h2>
-                <h3 class="section-subheading text-muted">Tools pendukung Aplikasi</h3>
+                <h2 class="section-heading text-uppercase">Sosial Group</h2>
+                <h3 class="section-subheading text-muted">For asking usage and collaboration</h3>
             </div>
             <div class="row text-center">
-                <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
-                    </span>
-                    <h4 class="my-3">Notif Sender</h4>
-                    <p class="text-muted">Whatsapp dan SMS Sender</p>
-                    <!-- Auto width -->
-                    <button class="btn"><a href="index.php?download=1" style="text-decoration: none;"> <b>FULL</b> Patch</a></button>
-                    <button class="btn"><a href="index.php?download=2" style="text-decoration: none;"> <b>UPDATE</b> Patch</a></button>
-                </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <span class="fa-stack fa-4x">
                         <i class="fas fa-circle fa-stack-2x text-primary"></i>
                         <i class="fas fa-users fa-stack-1x fa-inverse"></i>
@@ -161,7 +150,7 @@ function createZip($zipName, $dir)
                     <!-- Auto width -->
                     <button class="btn"><a href="https://t.me/mdlapp" target="_blank" style="text-decoration: none;"> Join Group</a></button>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <span class="fa-stack fa-4x">
                         <i class="fas fa-circle fa-stack-2x text-primary"></i>
                         <i class="fas fa-users fa-stack-1x fa-inverse"></i>
@@ -230,7 +219,7 @@ function createZip($zipName, $dir)
             <div class="row">
                 <div class="col">
                     <div class="team-member">
-                        <h4>Rp60,000/bulan/cabang</h4>
+                        <h4>Rp100,000/bulan/cabang</h4>
                         <p class="text-muted">Harga dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu</p>
                     </div>
                 </div>
